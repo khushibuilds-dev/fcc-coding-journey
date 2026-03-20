@@ -6,14 +6,10 @@ Welcome to my repository! Here, I am documenting my progress through the **Respo
 
 Welcome! I am building projects every day to master Web Development.
 
-
 ## 📂 Project Gallery
 
-
 | Project Name | Tech Used | Live Link (View Website) |
-| :--- | :--- | :--- |
-
-| 📝 **Remote Work Survey** | HTML5, Forms | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/survey-form/) |
+| :--- | :--- | :---|
 | 🏨 **Hotel Feedback Form** | HTML5, Fieldsets | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/hotel-feedback-form/) |
 | 📚 **Book Catalog** | HTML5, Lists | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/book-cat/) |
 
