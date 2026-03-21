@@ -4,8 +4,8 @@ Welcome to my portfolio! Is repository mein mere saare beginner-level web develo
 
 ## 📁 Projects List
 
-*   **[Hotel Feedback Form](./hotel-feedback-form/)** - Ek simple feedback collection form (HTML & CSS).
-*   **[Book Catalog](./book-catalog/)** - Books ki list aur details dikhane wala project.
+*   **[Hotel Feedback Form](https://khushibuilds-dev.github.io/fcc-coding-journey//hotel-feedback-form/)** - Ek simple feedback collection form (HTML & CSS).
+*   **[Book Catalog](https://khushibuilds-dev.github.io/fcc-coding-journey//book-catalog/)** - Books ki list aur details dikhane wala project.
 *   **[Recipe Challenge](./recipe-challenge/)** - Delicious recipes display karne ka interface.
 
 ## 🛠️ Tools Used
