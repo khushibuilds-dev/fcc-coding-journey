@@ -16,7 +16,8 @@ Each project here marks a milestone in my learning—from understanding my first
 *   **🥘 [Recipe Challenge](./recipe-challenge/)**
     *   **Focus:** Presenting content with lists and text.
     *   **What I Learned:** Using ordered and unordered lists (`<ol>`, `<ul>`) to show recipe steps and ingredients clearly.
-
+## My project list
+[click here to see](https://khushibuilds-dev.github.io/fcc-coding-journey/)
 ---
 **Current Milestone:** Mastering HTML5 Structure ✍️  
 **Next Step:** Starting CSS for Styling! 🎨
