@@ -5,6 +5,10 @@ Each project here marks a milestone in my learning—from understanding my first
 
 ## 📁 My HTML Projects
 
+*   **  [My First structure] (my-first-structure/index.html)**
+*   **Focus:** Building a funcation web structure.
+*   **What I Learned:** How to use elements like  <p>  <h1> <h2>  and <h3> .
+
 *   **🏨 [Hotel Feedback Form](hotel-feedback/index.html)**
     *   **Focus:** Building a functional survey form.
     *   **What I Learned:** How to use form elements like `<input>`, `<label>`, and `radio buttons` to collect user data.
