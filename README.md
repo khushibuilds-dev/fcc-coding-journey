@@ -9,7 +9,7 @@ Each project here marks a milestone in my learning—from understanding my first
     *   **Focus:** Building a functional survey form.
     *   **What I Learned:** How to use form elements like `<input>`, `<label>`, and `radio buttons` to collect user data.
 
-*   **📚 [Book Catalog](https://github.com/khushibuilds-dev/fcc-coding-journey/tree/main/book-catalog)**
+*   **📚 [Book Catalog](book-catalog-table/index.html)**
     *   **Focus:** Organizing data in a structured way.
     *   **What I Learned:** Creating **HTML Tables** using `<table>`, `<tr>`, and `<td>` to display book titles and details in rows and columns.
 
