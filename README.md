@@ -3,11 +3,15 @@ This repository is a record of my hard work and daily progress. I started with n
 
 Each project here marks a milestone in my learning—from understanding my first HTML tag to building full layouts.
 
-## 📁 My HTML Projects
+## 📁 My HTML Project
 
-*   **  [My First structure] (my-first-structure/index.html)**
+*   **[My First structure](my-first-structure/index.html)**
 *   **Focus:** Building a funcation web structure.
 *   **What I Learned:** How to use elements like `<p>`, `<h1>`, `<h2>`,  and `<h3>`, .
+
+*   **[Hello World Project](hello-world-project/index.html) **
+*   **Focus:** Buliding web structure.
+*   **Learning goals:** Basic elements.
 
 *   **🏨 [Hotel Feedback Form](hotel-feedback/index.html)**
     *   **Focus:** Building a functional survey form.
