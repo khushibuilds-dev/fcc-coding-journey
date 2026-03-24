@@ -16,8 +16,8 @@ Each project here marks a milestone in my learning—from understanding my first
 *   **[CatPhotoApp](cat-photo-app/index.html)**
 *        **Focus:** Feeling awesome after adding my first image using the <img> tag—it makes the whole page look great! 🥳
 
-*   **[Book Store](book-store/index.html)**
-*        **Focus:** Using btn elements.
+  **   [Book Store](book-store/index.html)**
+  **Focus:** Using btn elements.
 
 *   **🏨 [Hotel Feedback Form](hotel-feedback/index.html)**
     *   **Focus:** Building a functional survey form.
