@@ -9,15 +9,15 @@ Each project here marks a milestone in my learning—from understanding my first
 *      **Focus:** Building a funcation web structure.
 *      **What I Learned:** How to use elements like `<p>`, `<h1>`, `<h2>`,  and `<h3>`, .
 
-*   **[Hello World Project](hello-world-project/index.html)**
+* **[Hello World Project](hello-world-project/index.html)**
         **Focus:** Buliding web structure.
-*       **Learning goals:** Basic elements.
+* **Learning goals:** Basic elements.
 
-*   **[CatPhotoApp](cat-photo-app/index.html)**
-*        **Focus:** Feeling awesome after adding my first image using the <img> tag—it makes the whole page look great! 🥳
+* **[CatPhotoApp](cat-photo-app/index.html)**
+   **Focus:** Feeling awesome after adding my first image using the <img> tag—it makes the whole page look great! 🥳
 
-  **   [Book Store](book-store/index.html)**
-  **Focus:** Using btn elements.
+  **[Book Store](book-store/index.html)**
+    **Focus:** Using btn elements.
 
 *   **🏨 [Hotel Feedback Form](hotel-feedback/index.html)**
     *   **Focus:** Building a functional survey form.
