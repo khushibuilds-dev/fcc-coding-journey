@@ -37,6 +37,9 @@ Each project below marks a specific step in my learning curve:
 *   **Focus:** Multimedia integration.
 *   **What I Learned:** Using the `<audio>` element with `loop` and `controls` attributes.
 
+### 🚀 Latest Project Added:
+- **Project: Video Display Iframe** - Learned how to embed YouTube videos using the `<iframe>` element and manage meta tags for better structure.
+
 ---
 
 ## 🧠 Skills I'm Building
