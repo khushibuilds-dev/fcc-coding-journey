@@ -38,7 +38,9 @@ Each project below marks a specific step in my learning curve:
 *   **What I Learned:** Using the `<audio>` element with `loop` and `controls` attributes.
 
 ### 🚀 Latest Project Added:
-- **Project: Video Display Iframe** - Learned how to embed YouTube videos using the `<iframe>` element and manage meta tags for better structure.
+- **Project: List of Web Browsers** - Learned to use Semantic Description Lists (`<dl>`, `<dt>`, `<dd>`) to present browser history and features in a structured way.
+- **Project: Video Display Iframe** - Learned how to embed YouTube videos using the `<iframe>` element.
+
 
 ---
 
