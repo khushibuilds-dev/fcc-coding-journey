@@ -44,7 +44,7 @@ Each project below marks a specific step in my learning curve:
 
 ### 🚀 Latest Project Added:
 - **Project: Quincy’s Job Tips** — Focused on using advanced Semantic HTML5 elements like `<main>`, `<section>`, and professional text formatting with `<blockquote cite>`, `<q>`, and `<cite>`.
-
+**Project: Build a Cat blog** - Built a semantic layout using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` with contact details managed by the `<address>` element
 ---
 
 ## 🧠 Skills I'm Building
