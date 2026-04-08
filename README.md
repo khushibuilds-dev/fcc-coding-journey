@@ -9,7 +9,7 @@ I am currently teaching myself web development through **freeCodeCamp**, documen
 ## 📌 Current Milestone: Mastering CSS Fundamentals 🎨
 > **Status:** Learning Selectors, Box Model, and Flexbox!
 
-🔗 **Live Preview:** [Explore My Projects Here](https://github.io)
+🔗 **Live Preview:** [Explore My Projects Here](https://khushibuilds-dev.github.io/fcc-coding-journey/)
 
 ---
 
