@@ -1,6 +1,18 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: lightblue;
+    background-color: pink;
     margin: 0;
     padding: 20px;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: orange;
+}
+a:hover{
+    color: red
+}
+a:active{
+    color: green;
 }
