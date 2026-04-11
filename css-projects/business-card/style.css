@@ -14,3 +14,9 @@ body{
 .profile-image{
     max-width: 100%;
 }
+p{
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+}
