@@ -8,10 +8,13 @@ body{
 
 }
 header{
-    background-color:  #ffffff;
+    background-color: pink;
     padding: 30px;
     text-align: center;
     border-radius: 10px;
     border-bottom: 5px solid  #007bff;
     margin-bottom: 30px;
+}
+.level-1, .leve-2, .level-3, .level-4{
+     background-color: #e9ecef;
 }
