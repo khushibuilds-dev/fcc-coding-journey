@@ -31,3 +31,12 @@ header{
     color: #4ca1af;
     margin-bottom: 10px;
  }
+ .Basic-html-projects, 
+.Intermediate-html-projects, 
+.advance-html-project, 
+.css-styling-projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
