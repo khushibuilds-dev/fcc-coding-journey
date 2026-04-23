@@ -18,7 +18,7 @@ hr{ height: 3px;}
   display: inline-block;
 }
 
-.flavor {
+.flavor, dessert {
   text-align: left;
   width: 75%;
 }
