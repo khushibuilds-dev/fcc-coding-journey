@@ -24,7 +24,10 @@ h2 {
   font-size: 30px;
 }
 
-hr{ height: 3px;}
+hr{ height: 3px;
+   background-color: brown;
+  border-color: brown;
+}
 
 .item p {
   display: inline-block;
