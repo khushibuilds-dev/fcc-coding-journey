@@ -19,6 +19,8 @@ I am currently teaching myself web development through **freeCodeCamp**, documen
 *   **Stylized Todo List:** Converting a basic list into a modern, clean task manager using CSS colors, fonts, and spacing.
 *   **Professional Business Card:** My first step into layout design. Used the CSS Box Model (Padding, Margin, Borders) to create a sleek digital card.
 
+  *  **Cafe Menu:**
+a cafe menu project using basic css
 ### 📑 Basic Web Structure (HTML)
 *   **Hello World & CatPhotoApp:** My first step! Learned to use `<h1>`, `<p>`, and the `<img>` tag. 🐱
 *   **Hotel Feedback Form:** Focused on collecting user data using `<input>`, `<label>`, and radio buttons.
