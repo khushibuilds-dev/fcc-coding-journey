@@ -67,9 +67,10 @@ header:hover {
     justify-content: space-between;
 }
 .project-title:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    border-color: #4ca1af;
+   transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(37, 99, 235, 0.1); /* Halka blue shadow */
+    border-color: #2563eb;
+    background-color: #f0f7ff; /* Hover par halka blue tint */
 }
 .project-title h3 {
     font-size: 1.2rem;
