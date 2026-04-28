@@ -17,10 +17,7 @@ body {
          border-right: 10px pink solid;
 }
 
-body:hover {
-    background-color: #e0e0e0;
-    transition: background-color 0.3s ease;
-}
+
 header{
     background-color: lightgreen;
     padding: 30px;
