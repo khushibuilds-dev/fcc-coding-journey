@@ -33,11 +33,10 @@ header:hover {
     transition: background-color 0.3s ease;
 }
 .level-1, .level-2, .level-3, .level-4{
-     background-color: #e9ecef;
-     padding: 30px;
-     margin-top: 30px;
-     border-radius: 10px;
-      border-left: 8px solid #28a745;}
+     background-color: #ffffff;
+    border-left: 8px solid #10b981; /* Fresh Green */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
  .level-title{
         color: #2c3e50;
     font-size: 1.8rem;
