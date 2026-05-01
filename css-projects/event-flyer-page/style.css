@@ -4,3 +4,15 @@ body{
     width: 400vw;
     min-height: 100vh-100px;
 }
+hr{
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #333;
+}
+section{
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 8px; 
+}
