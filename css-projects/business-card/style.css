@@ -36,3 +36,14 @@ hr{
     border: 0.5px solid #eee;
     margin: 15px 0;
 }
+.social-media{
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: #0073b1;
+    color: white;
+}
+.social-media:hover{
+    background-color: #005582;
+    transition: 0.3s;
+}
