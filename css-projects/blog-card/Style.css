@@ -1,1 +1,44 @@
-
+body{
+    background-color: gray;
+}
+.blog-post-card{
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    text-align: left;
+}
+post-img{
+    width: 100%;
+    border-bottom: 2px solid #ddd;
+}
+post-content{
+    padding: 20px;
+}
+.post-title{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 10px;
+    color: #333;
+}
+post-excerpt{
+    font-size: 16px;
+    color: #666;
+    margin: 0 0 15px;
+}
+.post-meta{
+    font-size: 14px;
+    color: #999;
+    margin: 0 0 20px;
+}
+.read-more{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #0073b1;
+    color: white;
+    display: inline-block;
+}
+.read-more:hover{
+    background-color: #005582;
+    transition: 0.3s;
+}
