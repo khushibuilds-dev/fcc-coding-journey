@@ -37,6 +37,7 @@ post-excerpt{
     background-color: #0073b1;
     color: white;
     display: inline-block;
+    margin: 0 0 20px;
 }
 .read-more:hover{
     background-color: #005582;
