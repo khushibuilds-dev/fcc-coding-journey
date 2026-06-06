@@ -1,1 +1,11 @@
-
+body{
+  background-color: Midnightblue;
+  color: whitesmoke;}
+.container{
+  background-color: #ffffff1a;
+  width: 80%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 10px 20px;
+  box-shadow: 0 5px 15px black;}
