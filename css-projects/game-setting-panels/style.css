@@ -4,3 +4,7 @@ body {
   text-align: center;
 }
 
+.settings-card {
+  max-width: 250px;
+  padding: 20px;
+  border-radius: 10px;}
