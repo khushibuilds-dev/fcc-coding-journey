@@ -19,3 +19,11 @@ label {
   cursor: pointer;
   margin: 8px auto;
 }
+input[type='checkbox'] {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  appearance: none;
+  border: 2px solid #f1be32;
+  border-radius: 4px;
+  background-color: white;}
