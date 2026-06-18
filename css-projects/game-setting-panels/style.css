@@ -30,3 +30,7 @@ input[type='checkbox'] {
 transition: all 0.3s;
   vertical-align: middle;
   margin-right: 15px;}
+input[type='checkbox']:checked {
+  background-color: #f1be32;
+  border-color: #e2a60d;
+}
