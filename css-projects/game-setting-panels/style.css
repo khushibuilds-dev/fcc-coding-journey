@@ -2,6 +2,13 @@ body {
   height: 100vh;
   background-color: #f0f0f0;
   text-align: center;
+  background-color: #1e222b; /* डार्क गेमिंग थीम */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
 }
 
 .settings-card {
