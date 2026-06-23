@@ -1,5 +1,6 @@
 body{
-    background-color: gray;
+    background: linear-gradient(135deg, #e0eafc, #cfdef3);
+    min-height: 100vh;
       display: flex;
   flex-direction: column;
   justify-content: center;
