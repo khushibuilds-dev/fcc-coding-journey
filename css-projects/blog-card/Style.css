@@ -50,3 +50,8 @@ body{
     transition: 0.3s;
       cursor: pointer;
 }
+.blog-post-card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
