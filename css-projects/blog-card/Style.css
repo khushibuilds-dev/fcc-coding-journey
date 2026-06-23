@@ -48,4 +48,5 @@ post-excerpt{
 .read-more:hover{
     background-color: #005582;
     transition: 0.3s;
+      cursor: pointer;
 }
