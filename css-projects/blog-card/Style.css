@@ -11,13 +11,13 @@ body{
     border-radius: 10px;
     text-align: left;
 }
-post-img{
+.post-img{
     width: 100%;
     border-bottom: 2px solid #ddd;
     border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
-post-content{
+.post-content{
     padding: 20px;
 }
 .post-title{
@@ -26,7 +26,7 @@ post-content{
     margin: 0 0 10px;
     color: #333;
 }
-post-excerpt{
+.post-excerpt{
     font-size: 16px;
     color: #666;
     margin: 0 0 15px;
@@ -42,8 +42,8 @@ post-excerpt{
     border-radius: 5px;
     background-color: #0073b1;
     color: white;
-    display: inline-block;
-    margin: 0 0 20px;
+    display: block;
+    margin: 20px;
 }
 .read-more:hover{
     background-color: #005582;
