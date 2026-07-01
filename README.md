@@ -21,6 +21,9 @@ I am currently teaching myself web development through **freeCodeCamp**, documen
 
   *  **Cafe Menu:**
 a cafe menu project using basic css
+
+*  **Business Card** live business card using layout and clean design
+
 ### 📑 Basic Web Structure (HTML)
 *   **Hello World & CatPhotoApp:** My first step! Learned to use `<h1>`, `<p>`, and the `<img>` tag. 🐱
 *   **Hotel Feedback Form:** Focused on collecting user data using `<input>`, `<label>`, and radio buttons.
