@@ -6,3 +6,6 @@ const subject = "JavaScript";
 const topic = "string";
 const sentence = `Today, you will learn about $(topic) in ${subject}.`;
 console.log(sentence);
+const strLengthIntro = `Here is an example of using the word ${subject}.`;
+console.log(strLengthIntro);
+console.log(subject.length);
