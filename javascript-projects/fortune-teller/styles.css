@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+  font: Satoshi;
+}
+
+.btn {
+  
+
+    background-color: red;
+    border : none;
+    cursor: pointer;
+    border-radius: 50px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 20px;
+    
+}
+.btn:hover{
+    color: white;
+    background-color: brown;
+}
+.output {
+    width: 500px;
+    height: 200px;
+    background-color: pink;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding: 2px;
+}
