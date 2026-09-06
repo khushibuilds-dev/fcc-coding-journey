@@ -2,10 +2,17 @@
 function fortuneTeller(name){
   let fortune = ["ye saal apka bhut achha jayga.💕",
     "apko is saal korbaar mai trakki milegi. ❤️",
+    "app ko kal tak achhi khbar milegi",
     "aap bikul gadhe jaise dhikhte hai.🫏🙉🙈",
-    "Apke pass dimaag ki kami hai.🥴",
-    "Aap bhut hoshiyaar ho or chalak bhi ho.😘"
+    "App ulloo ho.🥴",
+    "Aap bhut hoshiyaar ho.😘",
+    "Apko bhut tarkki karoge",
+    "App bhut sundar dhkhte",
+    "Apko 50 ruppee garib ko daan kar jo apke bagl mai khada hai use",
+    "App bilkul achhe nahi lagte ho",
+    "app bhut sundar ho"
   ]
+
   let color = ["Red", "Blue", "Black", "Green", "Orange", "Purple"];
   let colorIndex = Math.floor(Math.random() * color.length);
   let fortuneIndex = Math.floor(Math.random() * fortune.length);
