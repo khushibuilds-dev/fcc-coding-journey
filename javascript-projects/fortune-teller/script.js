@@ -10,7 +10,9 @@ function fortuneTeller(name){
     "App bhut sundar dhkhte",
     "Apko 50 ruppee garib ko daan kar jo apke bagl mai khada hai use",
     "App bilkul achhe nahi lagte ho",
-    "app bhut sundar ho"
+    "app bhut sundar ho",
+    "Apke manokamna jald hi puri hogi",
+    "Gribi ko grib hi dur kar skte hai"
   ]
 
   let color = ["Red", "Blue", "Black", "Green", "Orange", "Purple"];
