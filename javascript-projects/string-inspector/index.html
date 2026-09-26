@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fortune Teller </title>
+  <link href="styles.css" rel ="stylesheet"></head>
+</head>
+<body>
+    <div id="welcome-page" class="page">
+    <div class="crystal-ball">🔮</div>
+    <h1>Sitaron ki duniya aapka intezar kar rahi hai...</h1>
+    <p>Apne dil mai ek sawal sochein aur neeche click karein.</p>
+    <button onclick="revealFortune()">Apna Naseeb Dekhein ✨</button>
+</div>
+
+<!-- PAGE 2: Main Fortune Screen (Pehle yeh chhupa rahega) -->
+<div id="fortune-page" class="page hidden">
+    <h2>🔮 Aapka Fortune 🔮</h2>
+    <!-- Is div mai JavaScript se random message aayega -->
+    <p id="fortune-message">Reading your stars...</p> 
+    <button onclick="goBack()">Dobara Koshish Karein 🔄</button>
+</div>
+<script src = script.js></script>
+</body>

@@ -1,0 +1,16 @@
+.page {
+    text-align: center;
+    padding: 50px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Is class se element screen par nahi dikhta */
+.hidden {
+    display: none;
+}
+
+/* Crystal Ball ki thodi mazaedar size */
+.crystal-ball {
+    font-size: 80px;
+    margin-bottom: 20px;
+}
